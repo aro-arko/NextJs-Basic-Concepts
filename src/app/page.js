@@ -1,6 +1,8 @@
+"use client";
+
 const HomePage = () => {
   return (
-    <div>
+    <div className="text-center">
       <h1>This is HomePage component</h1>
     </div>
   );
