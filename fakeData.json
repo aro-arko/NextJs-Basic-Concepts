@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Wireless Headphones",
+      "category": "Electronics",
+      "brand": "SoundMax",
+      "price": 89.99,
+      "image": "https://image.made-in-china.com/318f0j00IaRGcfzFVhki/6%E6%9C%8814%E6%97%A5%281%29.mp4.webp"
+    },
+    {
+      "id": 2,
+      "productName": "Smartphone!!!",
+      "category": "Electronics",
+      "brand": "TechOne",
+      "price": 99.99,
+      "image": "https://image.made-in-china.com/318f0j00IaRGcfzFVhki/6%E6%9C%8814%E6%97%A5%281%29.mp4.webp"
+    },
+    {
+      "id": 3,
+      "productName": "Gaming Laptop",
+      "category": "Computers",
+      "brand": "GigaTech",
+      "price": 1299.99,
+      "image": "https://image.made-in-china.com/318f0j00IaRGcfzFVhki/6%E6%9C%8814%E6%97%A5%281%29.mp4.webp"
+    },
+    {
+      "id": 4,
+      "productName": "Mechanical Keyboard",
+      "category": "Accessories",
+      "brand": "KeyPro",
+      "price": 89.99,
+      "image": "https://image.made-in-china.com/318f0j00IaRGcfzFVhki/6%E6%9C%8814%E6%97%A5%281%29.mp4.webp"
+    },
+    {
+      "id": 5,
+      "productName": "Smartwatch",
+      "category": "Wearables",
+      "brand": "TimeX",
+      "price": 19.99,
+      "image": "https://image.made-in-china.com/318f0j00IaRGcfzFVhki/6%E6%9C%8814%E6%97%A5%281%29.mp4.webp"
+    }
+  ]
+}
